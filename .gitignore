@@ -107,5 +107,8 @@ env3/
 # mypy
 .mypy_cache/
 
+# models
+model.bin
+
 # cifar-10
 cifar-10/dataset/
